@@ -1,0 +1,3 @@
+﻿  GrapihcsEditor.cpp
+c:\users\rv\documents\visual studio 2012\projects\grapihcseditor\grapihcseditor\grapihcseditor.cpp(1395): warning C4101: 'temp' : unreferenced local variable
+  GrapihcsEditor.vcxproj -> c:\users\rv\documents\visual studio 2012\Projects\GrapihcsEditor\Debug\GrapihcsEditor.exe
